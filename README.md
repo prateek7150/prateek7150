@@ -54,5 +54,8 @@ Database: MongoDB
 * 🔗 LinkedIn: https://www.linkedin.com
 
 ---
+##🌐 More About Me
+
+*https://portfolio-two-orpin-n3r6u5n20m.vercel.app/#
 
 ⭐ *“I believe in building things that actually solve problems.”*

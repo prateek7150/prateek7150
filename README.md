@@ -2,6 +2,10 @@
 
 🚀 Full Stack Developer (MERN) | 🤖 AI/ML Enthusiast
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7C94C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;AI%2FML+Explorer" />
+</p>
+
 ---
 
 ## 💡 About Me
@@ -29,17 +33,9 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:**
-HTML, CSS, JavaScript, React
-
-**Backend:**
-Node.js, Express.js
-
-**Database:**
-MongoDB
-
-**Other:**
-Git, GitHub, REST APIs
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express.js
+Database: MongoDB
 
 ---
 

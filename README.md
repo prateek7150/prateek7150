@@ -1,0 +1,61 @@
+# 👋 Hi, I'm Prateek Kumar Mishra
+
+🚀 Full Stack Developer (MERN) | 🤖 AI/ML Enthusiast
+
+---
+
+## 💡 About Me
+
+* 🎓 CSE Student at ITER, SOA University
+* 💻 I build real-world full-stack applications
+* 🤖 Exploring AI + Machine Learning
+* 🎯 Goal: Become a strong Software Engineer
+
+---
+
+## 🔥 Projects
+
+### 🏨 Hostel Care
+
+➡️ Complaint management system with role-based access
+➡️ Built with MERN stack + JWT Auth
+
+### 🤖 SmartPrep
+
+➡️ AI-powered interview preparation platform
+➡️ Uses Gemini AI for feedback & analysis
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+HTML, CSS, JavaScript, React
+
+**Backend:**
+Node.js, Express.js
+
+**Database:**
+MongoDB
+
+**Other:**
+Git, GitHub, REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=prateek7150\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek7150\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 GitHub: https://github.com/prateek7150
+* 🔗 LinkedIn: https://www.linkedin.com
+
+---
+
+⭐ *“I believe in building things that actually solve problems.”*
